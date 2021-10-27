@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalWatch_w_Timer", "DigitalWatch_w_Timer\DigitalWatch_w_Timer.csproj", "{B0DCE848-ABB0-4C2C-B78B-AE9A22D41EFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0DCE848-ABB0-4C2C-B78B-AE9A22D41EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0DCE848-ABB0-4C2C-B78B-AE9A22D41EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0DCE848-ABB0-4C2C-B78B-AE9A22D41EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0DCE848-ABB0-4C2C-B78B-AE9A22D41EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37541BF9-450C-4A16-947B-20C4F5F09EF7}
+	EndGlobalSection
+EndGlobal
